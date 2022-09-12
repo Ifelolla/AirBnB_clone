@@ -83,5 +83,5 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Contributors
 
-- Collins oden <collinsoden22@gmail.com>
-- Maureen Mbugua <moryn.mbugua@gmail.com>
+- Christiana Benjamin <hifelorlar@gmail.com@gmail.com>
+
